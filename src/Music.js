@@ -105,7 +105,7 @@ function Music() {
               height="50"
               className="d-inline-block align-top"
             />{' '}
-            Music Bass
+            Music Buss
           </Navbar.Brand>
         </Container>
       </Navbar>
